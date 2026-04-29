@@ -8,7 +8,7 @@
 ---
 
 ### 📍 About Me
-- 🎓 **University:** [Thai Binh Duong University]
+- 🎓 **University:** Thai Binh Duong University
 - 🗺️ **Location:** Nha Trang, Vietnam 🌊
 - 📧 **Contact:** [ngodh03344@example.com]
 
