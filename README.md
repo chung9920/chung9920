@@ -1,6 +1,4 @@
 # 👋 Hi, I'm [Your Name]
-**CS Student in Nha Trang, turning coastal inspiration into clean, functional code.**
-
 ---
 
 ### 📚 Studying
