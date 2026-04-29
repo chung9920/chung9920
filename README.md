@@ -9,10 +9,9 @@
 ---
 
 ### 📍 About Me
-- 🎓 **University:** [Your University, e.g., Nha Trang University]
+- 🎓 **University:** [Thai Binh Duong University]
 - 🗺️ **Location:** Nha Trang, Vietnam 🌊
-- 📧 **Contact:** [your.email@example.com]
-- 💼 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- 📧 **Contact:** [ngodh03344@example.com]
 
 ---
 
