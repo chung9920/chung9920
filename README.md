@@ -3,9 +3,9 @@
 
 ---
 
-<- ### 🛠️ Main skills
- [![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
-->
+--### 🛠️ Main skills
+-- [![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
+
 ### 📚 Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
 
