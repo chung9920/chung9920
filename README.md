@@ -1,4 +1,4 @@
-# 👋 Hi, I'm HxngDev
+# 👋 Hi, I'm chung9920
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=IT+Student;Suckless+Enthusiast;Arch+Linux+%26+Neovim+User" alt="Typing SVG" />
