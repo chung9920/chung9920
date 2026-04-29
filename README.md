@@ -15,6 +15,6 @@
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hxngdev&show_icons=true&theme=minimal&hide_border=true)]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hxngdev&show_icons=true&theme=dark&hide_border=true)]
 
 ---
