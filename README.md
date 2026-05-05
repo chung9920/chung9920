@@ -20,10 +20,3 @@
 - 📧 **Reach me:** [ngodh03344@gmail.com](mailto:ngodh03344@gmail.com)
 
 ---
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chung9920&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="HxngDev's Stats" height="180" />
-</p>
-
----
