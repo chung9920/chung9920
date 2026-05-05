@@ -17,6 +17,6 @@
 - 🎓 **University:** Student at **Thai Binh Duong University**
 - 🗺️ **Location:** Based in the beautiful coastal city of **Nha Trang, Vietnam** 
 - 🧠 **Interests:** Operating Systems, CLI, and Suckless tools.
-- 📧 **Reach me:** [ngodh03344@gmail.com](mailto:ngodh03344@gmail.com)
+- 📧 **Reach me:** [Gmail](mailto:ngodh03344@gmail.com)
 
 ---
